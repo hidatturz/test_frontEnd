@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### `kendala` 
+ada beberapa kendala saat saya menggunakan react-select , dengan kebiasaan saya menggunakan material-ui harusnya saya bisa untuk membuat fungsi search tetapi di react select saya tidak menemukan untuk custom value dari react-select sehingga ada yang aneh ketika di search karna dari react-select format datanya seperti pemahaman saya hanya menerima format object dan berupa value dari field nya, tetapi saya masih ingin belajar lebih lanjut , terimakasih sudah memebrikan saya kesempatan untuk mengerjakan test ini 
+
+Best Regards Hidayat
